@@ -8,9 +8,9 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧮 Tech Stack
 
-### 📌 Machine Learning / Data Science
+### 🖥️ Machine Learning / Data Science
 
 Python • R • SQL • Pandas • NumPy • Matplotlib • scikit-learn • Naïve Bayes • SVM • BERT • Time-Series Analysis
 
