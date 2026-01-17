@@ -1,10 +1,10 @@
 
 ## Hi there, I’m Gautmi (Gia) Sharma👋
 
-💻 Graduate Student in Applied Data Science at Syracuse University
-📊 Interested in Machine Learning, Artificial Intelligence, and NLP
-🔍 Research Interests: Text Mining, Predictive Modeling, Responsible AI
-🎨📈 When not studying or working with data, I enjoy playing tennis, watching movies, and creating art
+- 💻 Graduate Student in Applied Data Science at Syracuse University
+- 📊 Interested in Machine Learning, Artificial Intelligence, and NLP
+- 🔍 Research Interests: Text Mining, Predictive Modeling, Responsible AI
+- 🎾When not studying or working with data, I enjoy playing tennis, watching movies, and creating art
 
 ---
 
