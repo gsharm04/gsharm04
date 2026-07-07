@@ -18,11 +18,11 @@ Python • R • SQL • Pandas • NumPy • Matplotlib • scikit-learn • Na
 
 HTML • CSS • Drupal • Shiny • AWS S3
 
-### 🛠 Software / IDEs
+###  Software / IDEs
 
 Jupyter Notebook • RStudio • VS Code • PyCharm • Adobe Creative Cloud • Figma
 
-### 🗄 Databases & Cloud
+###  Databases & Cloud
 
 MySQL • AWS • Parquet • CSV
 
