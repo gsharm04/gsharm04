@@ -1,5 +1,5 @@
 
-## Hi there, I’m Gautmi (Gia) Sharma👋
+## Hi there, I’m Gia Sharma👋
 
 - Software Engineer at United Auto Supply
 - Interested in Machine Learning, Artificial Intelligence, and NLP
